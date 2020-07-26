@@ -1,0 +1,567 @@
+.onlythe {
+  font-family: "ABeeZee", Arial, sans-serif;
+}
+.hc {
+  font-family: "Dancing Script";
+  font-size: 16;
+  font-style: normal;
+  font-weight: 400;
+  background: rgb(243, 134, 9);
+  width: 320px;
+}
+.login {
+  display: flex;
+  padding-left: 82%;
+  color: rgb(110, 108, 108);
+  margin-top: 12px;
+}
+.navbar-nav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  padding-left: 50px !important;
+  margin-bottom: 0;
+  list-style: none;
+}
+.sa {
+  margin-top: 35px;
+  font-size: 30px;
+  padding-left: 13%;
+}
+.logo {
+  display: flex;
+}
+.ch {
+  color: rgb(85, 76, 76);
+}
+.ch:hover {
+  text-decoration: none;
+  color: #9ac100;
+}
+.readmore {
+  color: #9ac100;
+  background: white;
+  border: 1px solid white;
+  text-decoration: none !important;
+  border-radius: 30px;
+  padding: 7px 20px;
+}
+.readmore:hover {
+  color: black;
+}
+.cam {
+  background: #9ac100;
+  padding: 90px 0px;
+}
+.only {
+  margin: 90px 40px;
+}
+.only > h1 {
+  font-family: "ABeeZee", Arial, sans-serif;
+  font-size: 45px;
+  color: white;
+}
+.only > h3 {
+  background: orange;
+  margin-left: 70px;
+  font-size: 35px;
+  color: white;
+}
+.only > p {
+  font-family: "Dosis", Arial, sans-serif;
+  font-size: 17px;
+  color: white;
+}
+.img-fluid10 {
+  width: 30%;
+  margin-left: 305px;
+}
+.welcome {
+  margin: 40px 0px;
+}
+.cc {
+  color: #9ac100;
+  text-align: center;
+}
+.img-fluid1 {
+  border-radius: 50%;
+  margin-left: 30%;
+}
+span {
+  color: #bce22d;
+}
+.pq {
+  margin-bottom: 40px;
+}
+.metien {
+  background: #9ac201 url(../images/image_55.png) no-repeat center;
+  padding: 90px 0px;
+}
+.batien {
+  text-align: center;
+}
+.batien > .container > .row {
+  text-align: center;
+}
+.img-fluid8 {
+  width: 100%;
+}
+.fa-long-arrow-alt-right {
+  font-size: 20px;
+}
+.read {
+  color: #9ac100;
+  text-decoration: none !important;
+}
+.read:hover {
+  color: orange;
+}
+.all {
+  color: rgb(104, 91, 91);
+}
+.all:hover {
+  color: orange;
+}
+.giua {
+  color: orange;
+}
+.aw {
+  margin: 10px;
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+.pro {
+  font-family: "ABeeZee", Arial, sans-serif;
+  color: #9ac100;
+  font-weight: bold !important;
+}
+.foue {
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: aliceblue;
+}
+.batien {
+  padding: 80px 0px;
+}
+.that {
+  color: rgb(26, 27, 26) !important;
+  padding-bottom: 30px;
+}
+.meet {
+  text-align: center;
+  background: #9ac100;
+  color: aliceblue;
+  padding-top: 150px;
+}
+.manh {
+  border-radius: 45%;
+  border: 3px solid #9ac100;
+}
+.cv {
+  margin-left: 40px;
+}
+.ff {
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+#ee {
+  width: 100%;
+  height: 50%;
+}
+.ors {
+  width: 30%;
+  height: 30%;
+}
+
+.mm {
+  color: #666;
+}
+.mm:hover {
+  color: #9ac100;
+  text-decoration: none;
+}
+footer {
+  color: #666;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.bb {
+  padding-right: 30px;
+}
+.ee {
+  color: #9ac100;
+}
+.gggg {
+  color: #9ac100;
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.amyn {
+  margin-left: 70px;
+}
+.vv {
+  color: orange;
+}
+.nam {
+  color: #9ac100;
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.mien {
+  text-align: center;
+  line-height: 1.5;
+  color: #666;
+}
+.le {
+  line-height: 1.5;
+  color: #666;
+}
+.fa-trophy {
+  color: aliceblue;
+  background: #9ac100;
+  border-radius: 50%;
+  border: 20px solid #9ac100;
+}
+.fa-user-graduate {
+  background: #9ac100;
+  border-radius: 70%;
+  color: aliceblue;
+  border: 20px solid #9ac100;
+}
+.fa-leaf {
+  color: aliceblue;
+  background: #9ac100;
+  border-radius: 50%;
+  border: 20px solid #9ac100;
+}
+.yy {
+  margin-left: 60px;
+}
+.pp {
+  margin-left: 30px;
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.ii {
+  margin-left: 60px;
+  display: flex;
+}
+.qq {
+  margin-right: 30px;
+}
+.manh {
+  margin-bottom: 40px;
+  border-radius: 90%;
+  height: 105%;
+  width: 94%;
+}
+.cv {
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+#vc {
+  color: white;
+}
+#vc:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vd {
+  color: white;
+}
+#vd:hover {
+  color: orange;
+  text-decoration: none;
+}
+#ve {
+  color: white;
+}
+#ve:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vf {
+  color: white;
+}
+#vf:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vg {
+  color: white;
+}
+#vg:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vi {
+  color: white;
+}
+#vi:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vj {
+  color: white;
+}
+#vj:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vk {
+  color: white;
+}
+#vk:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vr {
+  color: white;
+}
+#vr:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vt {
+  color: white;
+}
+#vt:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vy {
+  color: white;
+}
+#vy:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vu {
+  color: white;
+}
+#vu:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vv {
+  color: white;
+}
+#vv:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vn {
+  color: white;
+}
+#vn:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vm {
+  color: white;
+}
+#vm:hover {
+  color: orange;
+  text-decoration: none;
+}
+#vx {
+  color: white;
+}
+#vx:hover {
+  color: orange;
+  text-decoration: none;
+}
+.kk {
+  color: #9ac100;
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.uu {
+  text-align: center;
+  line-height: 1.5;
+  color: #666;
+  margin-bottom: 50px;
+}
+.seven {
+  text-transform: uppercase;
+  font-size: 10px;
+  color: black;
+  line-height: 1.1;
+}
+.seven:hover {
+  color: #9ac100;
+  text-decoration: none;
+}
+.june {
+  color: #666;
+}
+.by {
+  color: #666;
+}
+.by:hover {
+  color: #9ac100;
+  text-decoration: none;
+}
+.sed {
+  color: rgb(41, 36, 36);
+}
+.new {
+  background: #9ac201 url(../images/image_55.png) no-repeat center;
+  padding: 50px 0px;
+}
+.latest {
+  margin-bottom: 43px;
+}
+.ggg {
+  display: flex;
+}
+form input {
+  border-radius: 30px;
+  width: 80%;
+  height: 40px;
+  position: absolute;
+  background: #9ac100;
+}
+.tt {
+  color: white;
+  font-family: Dosis, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.zz {
+  margin-left: 30px;
+  margin-bottom: 20px;
+  background: none;
+}
+.new {
+  color: white;
+}
+.bom {
+  margin-bottom: 30px;
+  padding: 0px 60px;
+}
+.amyn {
+  margin-top: 40px;
+}
+.f {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.ll {
+  color: #666;
+}
+.ll:hover {
+  text-decoration: none;
+  color: #9ac100;
+}
+#fb:hover {
+  color: #9ac100;
+}
+#fb {
+  color: orange;
+}
+#fa:hover {
+  color: #9ac100;
+}
+#fa {
+  color: orange;
+}
+#fc:hover {
+  color: #9ac100;
+}
+#fc {
+  color: orange;
+}
+#fd:hover {
+  color: #9ac100;
+}
+#fd {
+  color: orange;
+}
+#fe:hover {
+  color: #9ac100;
+}
+#fe {
+  color: orange;
+}
+.oo {
+  margin-left: 70px;
+  border-bottom: 1px dotted #9ac100;
+  margin-bottom: 30px;
+}
+.oi {
+  border-left: 1px dotted #9ac100;
+}
+.li {
+  color: orange;
+}
+#lllll {
+  width: 69px;
+  border-radius: 63px;
+  position: absolute;
+  z-index: 2;
+  bottom: -26px;
+  left: 50px;
+}
+#iii {
+  position: relative;
+  z-index: 1;
+}
+.cong {
+  width: 100%;
+}
+#collapsibleNavId {
+  margin-left: 75px;
+}
+#cu {
+  margin-left: 8%;
+  margin-bottom: 2%;
+}
+.iii {
+  position: relative;
+}
+.lllll {
+  max-width: 70px;
+  border-radius: 99px;
+  top: 42%;
+  left: 9vh;
+  border: 2px solid #fff;
+  position: absolute;
+}
+.te {
+  margin-top: 50px;
+}
+.welcome {
+  padding: 70px 70px;
+}
+.colums {
+  margin-bottom: 100px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.latest {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.len {
+  background: #9ac100;
+  padding: 0px 10px;
+  position: absolute;
+  top: 81%;
+  right: 46px;
+  padding-top: 20px;
+}
+.meet {
+  padding-bottom: 14%;
+  padding-top: 100px;
+}
+
+
